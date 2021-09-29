@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Jessica! I am a Tech Writer, escape room enthusiast, and bar trvia champion. 
+
+💬 I took a detour from the world of tech writing to do some time in the marketing trenches, but I have found my way back from the dark side.
+
+🔭 I’m currently working on ...beefing up my portoflio 
+
+🌱 I’m currently learning ... SQL and API documentation 
+
+😄 Pronouns ... she/her
+
+⚡ Fun fact: ... I am a big reader, and I am always ready to offer a book recommendation. My current favorite is "Cultish:The Language of Fanaticism" by Amanda Montell
 
 <!--
 **jessjrogers/jessjrogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
