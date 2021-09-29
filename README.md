@@ -2,7 +2,7 @@
 
 💬 I took a detour from the world of tech writing to do some time in the marketing trenches, but I have found my way back from the dark side.
 
-🔭 I’m currently working on ...beefing up my portoflio 
+🔭 I’m currently working on ... beefing up my portoflio 
 
 🌱 I’m currently learning ... SQL and API documentation 
 
