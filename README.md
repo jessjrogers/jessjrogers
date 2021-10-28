@@ -8,7 +8,7 @@
 
 😄 Pronouns ... she/her
 
-⚡ Fun fact: ... I am a big reader, and I am always ready to offer a book recommendation. My current favorite is "Cultish:The Language of Fanaticism" by Amanda Montell
+⚡ Fun fact: ... I am a big reader, and I am always ready to offer a book recommendation. My current favorites are "Cultish:The Language of Fanaticism" by Amanda Montell, and "The Truth About Lies" by Aja Raden.
 
 <!--
 **jessjrogers/jessjrogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
