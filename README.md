@@ -1,14 +1,14 @@
-### Hi, I'm Jessica! I am a Tech Writer, escape room enthusiast, and bar trvia champion. 
+### Hi, I'm Jessica! I am a Tech Writer, escape room enthusiast, and bar trivia champion. 
 
-💬 I took a detour from the world of tech writing to do some time in the marketing trenches, but I have returned. 
+💬 I took a detour from the world of tech writing to do sometime in the marketing trenches, but I have returned. 
 
-🔭 I’m currently working on ... adding to my portoflio 
+🔭 I’m currently working on ... adding to my portfolio 
 
 🌱 I’m currently learning ... SQL, Linux, and expanding my GitHub knowledge. 
 
 😄 Pronouns ... she/her
 
-⚡ Fun fact: ... I am a big reader, and I am always ready to offer a book recommendation. (I am always looking for good recommendations as well!) I am on a bit of a non-fiction kick as of late. Some of my current favorites are "Cultish:The Language of Fanaticism" by Amanda Montell, and "The Truth About Lies" by Aja Raden. 
+⚡ Fun fact: ... I am a big reader, and I am always ready to offer a book recommendation. (I am always looking for good recommendations as well!) I am on a bit of a nonfiction kick as of late. Some of my current favorites are "Cultish:The Language of Fanaticism" by Amanda Montell, and "The Truth About Lies" by Aja Raden. 
 
 <!--
 **jessjrogers/jessjrogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
