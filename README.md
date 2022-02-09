@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on ... adding to my portfolio 
 
-🌱 I’m currently learning ... SQL, Linux, and expanding my GitHub knowledge. 
+🌱 I’m currently learning ... Python and Linux.
 
 😄 Pronouns ... she/her
 
